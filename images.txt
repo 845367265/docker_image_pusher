@@ -1,4 +1,4 @@
-nginx:1.27.3-perl
+nginx:1.27.3
 redis:6.2.6
 mysql:8.0.40
 mysql:5.7
@@ -11,4 +11,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 nacos/nacos-server:v2.1.2
 nacos/nacos-server:v1.4.8
-daocloud.io/nginx:1.8.1
+nginx:latest
