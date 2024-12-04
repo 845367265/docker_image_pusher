@@ -11,5 +11,3 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 nacos/nacos-server:v2.1.2
 nacos/nacos-server:v1.4.8
-nginx:1.8.1
-nginx:1.7.10
