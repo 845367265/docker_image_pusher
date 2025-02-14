@@ -13,4 +13,4 @@ nacos/nacos-server:v2.1.2
 nacos/nacos-server:v1.4.8
 nginx:latest
 kdvolder/jdk8
-tdengine:latest
+tdengine:3.3.3.0
